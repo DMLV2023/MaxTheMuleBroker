@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\middlewares\\basicauthenticationhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\middlewares\\basicauthenticationhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\extensions\\useerrorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\extensions\\useerrorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\extensions\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\extensions\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\logic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\logic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\modificarorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\modificarorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\models\\ordershistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\models\\ordershistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\calculoorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\calculoorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|c:\\users\\diego\\desktop\\nueva carpeta\\nueva carpeta\\maxthemulebroker_ejemplo_05-11-2024\\maxthemulebroker_ejemplo\\maxthemulebroker_ejemplo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9BBD91D-2343-45FE-9397-0E8CAD27CB68}|MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj|solutionrelative:maxthemulebroker_ejemplo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T01:51:22.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Program.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Program.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:57:04.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Response.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Response.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Response.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:07:32.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MaxTheMuleBroker_ejemplo.csproj",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T22:42:09.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Extensions\\ApiException.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Extensions\\ApiException.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Extensions\\ApiException.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Extensions\\ApiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:51:35.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicAuthenticationHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Middlewares\\BasicAuthenticationHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Middlewares\\BasicAuthenticationHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Middlewares\\BasicAuthenticationHandlerMiddleware.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Middlewares\\BasicAuthenticationHandlerMiddleware.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwCwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:39:28.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAJgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:05:34.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:44:30.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Models\\OrdersHistory.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Models\\OrdersHistory.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Models\\OrdersHistory.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Models\\OrdersHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:48:15.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UseErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Extensions\\UseErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Extensions\\UseErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Extensions\\UseErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Extensions\\UseErrorHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:53:33.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Orders.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Orders.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Orders.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:43:35.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Logic\\Logic.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\Logic\\Logic.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\Logic\\Logic.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\Logic\\Logic.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAYwAMBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T20:15:27.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModificarOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\ModificarOrder.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\ModificarOrder.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\ModificarOrder.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\ModificarOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:53:02.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculoOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\CalculoOrders.cs",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\CalculoOrders.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\CalculoOrders.cs",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\CalculoOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:00:12.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\appsettings.json",
+              "RelativeDocumentMoniker": "MaxTheMuleBroker_ejemplo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\Nueva carpeta\\Nueva carpeta\\MaxTheMuleBroker_ejemplo_05-11-2024\\MaxTheMuleBroker_ejemplo\\MaxTheMuleBroker_ejemplo\\appsettings.json",
+              "RelativeToolTip": "MaxTheMuleBroker_ejemplo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T00:32:36.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
