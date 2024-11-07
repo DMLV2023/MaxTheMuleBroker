@@ -1,0 +1,6 @@
+@MaxTheMuleBroker_ejemplo_HostAddress = http://localhost:5290
+
+GET {{MaxTheMuleBroker_ejemplo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

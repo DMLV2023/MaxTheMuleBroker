@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MaxTheMuleBroker_ejemplo.props" />
+</Project>
